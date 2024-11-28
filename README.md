@@ -33,9 +33,9 @@ _For comforable browsing usage, it is recommended to download provided .html fil
 # Representation of Insights
 This project uses a variety of visualizations to represent the insights, including:
 
-Heatmaps: To explore patterns like monthly post occurrences or views over time.
-Bar Charts: For sensitive topic distributions and engagement by time.
-Pie Charts: To depict toxicity distributions or keyword dominance.
-Bigram Frequency Charts: For identifying recurring word pairs in posts.
+- Heatmaps: To explore patterns like monthly post occurrences or views over time.
+- Bar Charts: For sensitive topic distributions and engagement by time.
+- Pie Charts: To depict toxicity distributions or keyword dominance.
+- Bigram Frequency Charts: For identifying recurring word pairs in posts.
 
 Feel free to adapt this project or use it as inspiration for similar datasets. 
